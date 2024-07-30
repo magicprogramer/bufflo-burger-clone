@@ -1,5 +1,5 @@
 # bufflo-burger-clone
 this is a compilation project for iti intensive 4 months training  - cms track
-[demo](https://drive.google.com/drive/folders/1dIEDVao0jKKk1FRos7r0J2ToI_Z2visp)
+<iframe src="https://drive.google.com/file/d/1lo9J3coLX5FfLzSc5FZl_rCYtjibcN7r/preview" width="640" height="480" allow="autoplay"></iframe>
 [hosted site on pantheion.io](https://dev-baflfoburger.pantheonsite.io/)
 
