@@ -31,5 +31,5 @@ This is a compilation project for ITI's intensive 4-month training in the CMS tr
 - Ahmed Ezzat
 - Mayar Emera
 - Mohamed Alaa
-- Moatz 
+- Moataz Ahmed
 - Alaa Khames
