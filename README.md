@@ -23,6 +23,7 @@ This is a compilation project for ITI's intensive 4-month training in the CMS tr
 - Brevo
 - WPCode Snippet
 - WooCommerce
+- weglot
 
 ## 👥 Authors
 - Karim mustafa
