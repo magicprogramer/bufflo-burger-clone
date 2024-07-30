@@ -25,9 +25,9 @@ This is a compilation project for ITI's intensive 4-month training in the CMS tr
 - WooCommerce
 
 ## 👥 Authors
-- **Karim** (Team Leader)
+- Karim mustafa
 - Ahmed Ezzat
-- Mayar
+- Mayar Emera
 - Mohamed Alaa
-- Moatz
+- Moatz 
 - Alaa Khames
